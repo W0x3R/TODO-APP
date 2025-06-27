@@ -109,6 +109,12 @@
 		& input:checked+label {
 			text-decoration: line-through;
 		}
+
+		& button {
+			border: none;
+			background-color: unset;
+		}
+
 	}
 
 	&__list-label {
@@ -130,7 +136,7 @@
 			position: absolute;
 			left: 0;
 			@include mixins.sizes(clamp(16px, 3vw, 20px), clamp(16px, 3vw, 20px));
-			content: '\2714';
+			content: '✓';
 			color: transparent;
 			border: 2px solid rgb(0 0 0);
 			font-size: clamp(12px, 3vw, 16px);

@@ -5,11 +5,20 @@
 	position: absolute;
 	right: 22px;
 	top: 22px;
+	padding: 0;
+	background-color: unset;
+	border: none;
+
+	&_dark {
+		fill: rgb(255, 255, 255)
+	}
+}
+
+.toggle-theme-logo {
 	@include mixins.sizes(56px, 56px);
 
 	@include media.desktop {
-		position: absolute;
-		right: 12px;
+		right: 25px;
 		top: 12px;
 	}
 
@@ -19,9 +28,5 @@
 
 	@include media.smallMobile {
 		@include mixins.sizes(38px, 38px);
-	}
-
-	&_dark {
-		fill: rgb(255, 255, 255)
 	}
 }
