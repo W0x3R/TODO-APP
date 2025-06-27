@@ -2,7 +2,7 @@
 
 **ToDo** is a great app for keeping yourself organized and on track with all the things that you have to do! It's very intuitive and easy to navigate..
 
-![readmePhoto](/assets/images/readmePhotos/readmePhoto.jpg)
+![readmePhoto](https://res.cloudinary.com/dkcilxezg/image/upload/v1751045851/readmePhoto_w5krdz.jpg)
 
 💻 Deploy: [Link](https://w0x3r.github.io/TODO-APP/)
 
@@ -36,7 +36,7 @@
 
 **Desktop**
 
-![lightHouse](/assets/images/readmePhotos/lightHouse.jpg)
+![lightHouse](https://res.cloudinary.com/dkcilxezg/image/upload/v1751045850/lightHouse_c8wplw.jpg)
 
 ## Run the project locally:
 
